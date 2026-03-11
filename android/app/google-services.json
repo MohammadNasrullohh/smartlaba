@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509762087423",
+    "project_id": "smartlaba-app",
+    "storage_bucket": "smartlaba-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509762087423:android:4a99e8855cff5b58c11fca",
+        "android_client_info": {
+          "package_name": "com.example.smartlaba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQsjGViD3eduPatNroiU8-bIRYhJk2QvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
